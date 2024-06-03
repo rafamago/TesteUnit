@@ -1,0 +1,14 @@
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\PDI\TesteUnit\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Projetos\PDI\TesteUnit\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Projetos\PDI\TesteUnit\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Projetos\PDI\TesteUnit\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Projetos\PDI\TesteUnit\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Projetos\PDI\TesteUnit\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
